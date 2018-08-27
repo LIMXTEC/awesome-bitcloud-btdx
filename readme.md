@@ -18,6 +18,7 @@ Contributions are always welcome!
 * [Podcasts](#podcasts)
 * [Tooling](#tooling)
 * [Community](#community)
+* [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
 ## Introduction
@@ -51,6 +52,11 @@ All script is provided AS IS with no support or warranties.
   
 ## Community
 * [Bitcloud Twitter](https://twitter.com/bitcloud_btdx) Bitcloud Twitter feed.
+
+## Other Awesome Lists
+* [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx/) Bitcore Awesome List
+* [Bitsend](https://github.com/LIMXTEC/awesome-bitsend-bsd/) Bitsend Awesome List
+* [Megacoin](https://github.com/LIMXTEC/awesome-megacoin-mec/) Megacoin Awesome List
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/LIMXTEC/awesome-bitcloud-btdx/blob/master/contributing.md) for details.
