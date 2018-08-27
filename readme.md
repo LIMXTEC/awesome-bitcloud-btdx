@@ -9,15 +9,18 @@ Contributions are always welcome!
 ## Contents
 * [Introduction](#introduction)
 * [General](#general)
-* [Demos](#demos)
-* [Sample Projects](#sample-projects)
-* [Extensions](#extensions)
-* [Libraries](#libraries)
+* [Wallets](#wallets)
+* [Explorer](#explorer)
+* [Exchanges](#exchanges)
+* [Auto Exchanges](#auto-exchanges)
+* [Bill Service](#bill-service)
+* [Games](#games)
 * [Videos](#videos)
 * [Articles](#articles)
 * [Podcasts](#podcasts)
-* [Tooling](#tooling)
+* [Tools](#tools)
 * [Community](#community)
+* [Telegram Channels](#telegram-channels)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -34,24 +37,37 @@ All script is provided AS IS with no support or warranties.
 ## General
 * [Bitcloud Webpage](https://bit-cloud.info/) Bitcloud BTDX Webpage with all Infos about.
 
-## Demos
+## Wallets
+* [Bitcloud QT Wallet](https://github.com/LIMXTEC/Bitcloud/releases) Bitcloud Github releases
 
-## Sample Projects
+## Explorer
+* [cryptoID](https://chainz.cryptoid.info/btdx/) Bitcloud chainz Blockexplorer
 
-## Extensions
+## Exchanges
+* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTDX_BRIDGE.BTC)
+* [Coinexchange](https://www.coinexchange.io/market/BTDX/BTC)
 
-## Libraries
+## Auto Exchanges
+
+## Bill Service
+
+## Games
 
 ## Videos
 
 ## Articles
-  
+
 ## Podcasts
 
 ## Tools
-  
+
+
 ## Community
 * [Bitcloud Twitter](https://twitter.com/bitcloud_btdx) Bitcloud Twitter feed.
+
+## Telegram Channels
+* [Telegram (English)](https://t.me/bitcloud_btdx) Bitcloud Telegram Channel English
+
 
 ## Other Awesome Lists
 * [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx/) Bitcore Awesome List
