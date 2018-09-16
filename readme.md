@@ -34,6 +34,58 @@ All script is provided AS IS with no support or warranties.
 ### Requirements
 [ ]
 
+### Network Details
+* MainNetwork Details
+```
+Network Magic = 0xE4, 0xE8, 0xBD, 0xFD
+Default Port = 8329
+Seed = XX
+PUBKEY_ADDRESS = 25
+PUBKEY_ADDRESS_HEX = 0x19
+SCRIPT_ADDRESS = 5
+SCRIPT_ADDRESS_HEX = 0x05
+SECRET_KEY = 153
+SECRET_KEY_HEX = 0x99
+EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
+EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
+BIP32_PATH = m/44'/XX'/0'/
+Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
+MerkleRoot = 0x68f38e0fb1ea4346fa70aee7799c5f952293644e9ffdeccac41173e1e10e07cb
+```
+* TestNetwork Details
+```
+Network Magic = 0x45, 0x76, 0x65,0xBA
+Default Port = 51474
+Seed = XX
+PUBKEY_ADDRESS = 139
+PUBKEY_ADDRESS_HEX = 0x8B
+SCRIPT_ADDRESS = 19
+SCRIPT_ADDRESS_HEX = 0x13
+SECRET_KEY = 239
+SECRET_KEY_HEX = 0xEF
+EXT_PUBLIC_KEY = 0x3A, 0x80, 0x61, 0xA0
+EXT_SECRET_KEY = 0x3A, 0x80, 0x58, 0x37
+BIP32_PATH = m/44'/1'/0'/
+Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
+MerkleRoot = XX
+```
+* RegTest Details
+```
+Network Magic = 0xA1, 0xCF, 0x7E, 0xAC
+Default Port = 51476
+Seed = XX
+PUBKEY_ADDRESS = XX
+PUBKEY_ADDRESS_HEX = XX
+SCRIPT_ADDRESS = XX
+SCRIPT_ADDRESS_HEX = XX
+SECRET_KEY = XX
+SECRET_KEY_HEX = XX
+EXT_PUBLIC_KEY = XX
+EXT_SECRET_KEY = XX
+Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
+MerkleRoot = XX
+```
+
 ## General
 * [Bitcloud Webpage](https://bit-cloud.info/) Bitcloud BTDX Webpage with all Infos about.
 
