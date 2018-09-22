@@ -39,7 +39,7 @@ All script is provided AS IS with no support or warranties.
 ```
 Network Magic = 0xE4, 0xE8, 0xBD, 0xFD
 Default Port = 8329
-Seed = 
+Seed = seed.bitcloud.network
 PUBKEY_ADDRESS = 25
 PUBKEY_ADDRESS_HEX = 0x19
 SCRIPT_ADDRESS = 5
