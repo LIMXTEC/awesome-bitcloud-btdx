@@ -39,6 +39,7 @@ All script is provided AS IS with no support or warranties.
 ```
 Network Magic = 0xE4, 0xE8, 0xBD, 0xFD
 Default Port = 8329
+RPC Port = 8330
 Seed = seed.bitcloud.network
 PUBKEY_ADDRESS = 25
 PUBKEY_ADDRESS_HEX = 0x19
@@ -48,7 +49,7 @@ SECRET_KEY (WIF) = 153
 SECRET_KEY_HEX (WIF) = 0x99
 EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
 EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
-BIP32_PATH = m/44'/218'/0'/
+BIP44_PATH = m/44'/218'/0'/
 Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
 MerkleRoot = 0x68f38e0fb1ea4346fa70aee7799c5f952293644e9ffdeccac41173e1e10e07cb
 ```
@@ -56,6 +57,7 @@ MerkleRoot = 0x68f38e0fb1ea4346fa70aee7799c5f952293644e9ffdeccac41173e1e10e07cb
 ```
 Network Magic = 0x45, 0x76, 0x65,0xBA
 Default Port = 51474
+RPC Port = 8329
 Seed = 
 PUBKEY_ADDRESS = 139
 PUBKEY_ADDRESS_HEX = 0x8B
@@ -65,7 +67,7 @@ SECRET_KEY (WIF) = 239
 SECRET_KEY_HEX (WIF) = 0xEF
 EXT_PUBLIC_KEY = 0x3A, 0x80, 0x61, 0xA0
 EXT_SECRET_KEY = 0x3A, 0x80, 0x58, 0x37
-BIP32_PATH = m/44'/1'/0'/
+BIP44_PATH = m/44'/1'/0'/
 Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
 MerkleRoot = 
 ```
