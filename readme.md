@@ -97,6 +97,7 @@ MerkleRoot =
 * [cryptoID](https://chainz.cryptoid.info/btdx/) Bitcloud chainz Blockexplorer
 
 ## Exchanges
+* [Cryptopia](https://www.cryptopia.co.nz/Exchange/?market=BTDX_BTC)
 * [CryptoBridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTDX_BRIDGE.BTC)
 * [CoinExchange](https://www.coinexchange.io/market/BTDX/BTC)
 * [crex24](https://crex24.com/exchange/BTDX-BTC)
