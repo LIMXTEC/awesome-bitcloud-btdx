@@ -14,7 +14,7 @@ Contributions are always welcome!
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
 * [Market Info](#market-info)
-* [Masternode Info](#masternode-info]
+* [Masternode Info](#masternode-info)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Other Awesome Lists](#other-awesome-lists)
