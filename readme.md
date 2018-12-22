@@ -88,6 +88,7 @@ MerkleRoot =
 ## General
 * [Bitcloud Webpage](https://bit-cloud.info/) Bitcloud BTDX Webpage with all Infos about.
 * [Bitcloud ANN English](https://bitcointalk.org/index.php?topic=2092583.0)
+* [Bitcloud Forum](https://forum.bit-cloud.cc)
 
 ## Wallets
 * [Bitcloud QT Wallet](https://github.com/LIMXTEC/Bitcloud/releases) Bitcloud Github releases
