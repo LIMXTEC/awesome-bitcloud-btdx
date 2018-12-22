@@ -98,8 +98,14 @@ MerkleRoot =
 * [cryptoID](https://chainz.cryptoid.info/btdx/) Bitcloud chainz Blockexplorer
 
 ## Exchanges
-* [Crypto-Bridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTDX_BRIDGE.BTC)
-* [Coinexchange](https://www.coinexchange.io/market/BTDX/BTC)
+* [CryptoBridge](https://wallet.crypto-bridge.org/market/BRIDGE.BTDX_BRIDGE.BTC)
+* [CoinExchange](https://www.coinexchange.io/market/BTDX/BTC)
+* [crex24](https://crex24.com/exchange/BTDX-BTC)
+* [Altilly - BTC](https://www.altilly.com/market/BTDX_BTC)
+* [Altilly - USDT](https://www.altilly.com/market/BTDX_USDT)
+* [Altilly - ETH](https://www.altilly.com/market/BTDX_ETH)
+* [Altilly - LTC](https://www.altilly.com/market/BTDX_LTC)
+* [Altilly - DOGE](https://www.altilly.com/market/BTDX_DOGE)
 
 ## Auto Exchanges
 
