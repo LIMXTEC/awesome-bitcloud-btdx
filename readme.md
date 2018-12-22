@@ -112,11 +112,11 @@ MerkleRoot =
 * [https://instaswap.io](InstaSwap - Simple. Fast. Secure.)
 
 ## Market Info
-* [https://coinmarketcap.com/currencies/bitcloud/](Bitcloud Ranking by Market Capitalization)
-* [https://www.worldcoinindex.com/coin/bitcloud](Bitcloud price index and market cap)
-* [https://www.cryptocompare.com/coins/btdx/overview/BTC](Live Bitcloud prices, trades and volumes)
-* [https://athcoinindex.com/coin/bitcloud](Bitcore ATH price & market capitalizations)
-* [https://delta.app](Easily track your cryptocurrency portfolio)
+* [CoinMarketCap](https://coinmarketcap.com/currencies/bitcloud/) Bitcloud Ranking by Market Capitalization
+* [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitcloud) Bitcloud price index and market cap
+* [CryptoCompare](https://www.cryptocompare.com/coins/btdx/overview/BTC) Live Bitcloud prices, trades and volumes
+* [ATHCoinIndex](https://athcoinindex.com/coin/bitcloud) Bitcore ATH price & market capitalizations
+* [Delta](https://delta.app) Easily track your cryptocurrency portfolio
 
 ## Bill Service
 
