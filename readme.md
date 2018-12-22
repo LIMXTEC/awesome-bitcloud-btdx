@@ -90,6 +90,7 @@ MerkleRoot =
 
 ## General
 * [Bitcloud Webpage](https://bit-cloud.info/) Bitcloud BTDX Webpage with all Infos about.
+* [Bitcloud ANN English](https://bitcointalk.org/index.php?topic=2092583.0)
 
 ## Wallets
 * [Bitcloud QT Wallet](https://github.com/LIMXTEC/Bitcloud/releases) Bitcloud Github releases
@@ -108,6 +109,14 @@ MerkleRoot =
 * [Altilly - DOGE](https://www.altilly.com/market/BTDX_DOGE)
 
 ## Auto Exchanges
+* [https://instaswap.io](InstaSwap - Simple. Fast. Secure.)
+
+## Market Info
+* [https://coinmarketcap.com/currencies/bitcloud/](Bitcloud Ranking by Market Capitalization)
+* [https://www.worldcoinindex.com/coin/bitcloud](Bitcloud price index and market cap)
+* [https://www.cryptocompare.com/coins/btdx/overview/BTC](Live Bitcloud prices, trades and volumes)
+* [https://athcoinindex.com/coin/bitcloud](Bitcore ATH price & market capitalizations)
+* [https://delta.app](Easily track your cryptocurrency portfolio)
 
 ## Bill Service
 
@@ -124,10 +133,12 @@ MerkleRoot =
 
 ## Community
 * [Bitcloud Twitter](https://twitter.com/bitcloud_btdx) Bitcloud Twitter feed.
+* [Bitcloud Facebook](https://www.facebook.com/Bitcloud.BTDX/) Bitcloud Facebook
+
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcloud_btdx) Bitcloud Telegram Channel English
-
+* [Telegram (Deutsch)](https://t.me/bitcloud_btdx_german) Bitcloud Telegram Channel Deutsch
 
 ## Other Awesome Lists
 * [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx/) Bitcore Awesome List
