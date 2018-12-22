@@ -14,6 +14,7 @@ Contributions are always welcome!
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
 * [Market Info](#market-info)
+* [Coin Info](#coin-info)
 * [Masternode Info](#masternode-info)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
@@ -113,6 +114,9 @@ MerkleRoot =
 * [CryptoCompare](https://www.cryptocompare.com/coins/btdx/overview/BTC) Live Bitcloud prices, trades and volumes
 * [ATHCoinIndex](https://athcoinindex.com/coin/bitcloud) Bitcore ATH price & market capitalizations
 * [Delta](https://delta.app) Easily track your cryptocurrency portfolio
+
+## Coin Info
+* [YouStake.to](https://youstake.to) Bitcloud Coin Info
 
 ## Masternode Info
 * [MasterNodes.online](https://masternodes.online/currencies/BTDX/)
