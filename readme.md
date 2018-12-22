@@ -14,12 +14,7 @@ Contributions are always welcome!
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
 * [Market Info](#market-info)
-* [Bill Service](#bill-service)
-* [Games](#games)
-* [Videos](#videos)
-* [Articles](#articles)
-* [Podcasts](#podcasts)
-* [Tools](#tools)
+* [Masternode Info](#masternode-info]
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
 * [Other Awesome Lists](#other-awesome-lists)
@@ -119,23 +114,19 @@ MerkleRoot =
 * [ATHCoinIndex](https://athcoinindex.com/coin/bitcloud) Bitcore ATH price & market capitalizations
 * [Delta](https://delta.app) Easily track your cryptocurrency portfolio
 
-## Bill Service
+## Masternode Info
+* [MasterNodes.online](https://masternodes.online/currencies/BTDX/)
+* [MasterNode.live](https://masternode.live/currencies/BTDX/Bitcloud)
 
-## Games
-
-## Videos
-
-## Articles
-
-## Podcasts
-
-## Tools
-
+## Masternode Hosting
+* [NodeHub.io](https://nodehub.io/) 
+* [01vps.net](https://01vps.net)
 
 ## Community
 * [Bitcloud Twitter](https://twitter.com/bitcloud_btdx) Bitcloud Twitter feed.
 * [Bitcloud Facebook](https://www.facebook.com/Bitcloud.BTDX/) Bitcloud Facebook
 * [Bitcloud Discord](https://discord.gg/kgWVGD2) Bitcloud Discord Community
+* [Bitcliud Reddit](https://reddit.com/r/bitcloud_btdx) Bitcloud Reddit Community
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcloud_btdx) Bitcloud Telegram Channel English
