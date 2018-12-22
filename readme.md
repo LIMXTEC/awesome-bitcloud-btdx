@@ -13,6 +13,7 @@ Contributions are always welcome!
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
+* [Market Info](#market-info)
 * [Bill Service](#bill-service)
 * [Games](#games)
 * [Videos](#videos)
@@ -109,7 +110,7 @@ MerkleRoot =
 * [Altilly - DOGE](https://www.altilly.com/market/BTDX_DOGE)
 
 ## Auto Exchanges
-* [https://instaswap.io](InstaSwap - Simple. Fast. Secure.)
+* [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
 ## Market Info
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitcloud/) Bitcloud Ranking by Market Capitalization
@@ -134,7 +135,7 @@ MerkleRoot =
 ## Community
 * [Bitcloud Twitter](https://twitter.com/bitcloud_btdx) Bitcloud Twitter feed.
 * [Bitcloud Facebook](https://www.facebook.com/Bitcloud.BTDX/) Bitcloud Facebook
-
+* [Bitcloud Discord](https://discord.gg/kgWVGD2) Bitcloud Discord Community
 
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcloud_btdx) Bitcloud Telegram Channel English
