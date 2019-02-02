@@ -18,6 +18,8 @@ Contributions are always welcome!
 * [Masternode Info](#masternode-info)
 * [Community](#community)
 * [Telegram Channels](#telegram-channels)
+* [Development Libraries](#development-libraries)
+* [Network Details](#network-details)
 * [Other Awesome Lists](#other-awesome-lists)
 * [Contributing](#contributing)
 
@@ -30,60 +32,6 @@ All script is provided AS IS with no support or warranties.
 
 ### Requirements
 [ ]
-
-### Network Details
-* MainNetwork Details
-```
-Network Magic = 0xE4, 0xE8, 0xBD, 0xFD
-Default Port = 8329
-RPC Port = 8330
-Seed = seed.bitcloud.network
-PUBKEY_ADDRESS = 25
-PUBKEY_ADDRESS_HEX = 0x19
-SCRIPT_ADDRESS = 5
-SCRIPT_ADDRESS_HEX = 0x05
-SECRET_KEY (WIF) = 153
-SECRET_KEY_HEX (WIF) = 0x99
-EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
-EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
-BIP44_PATH = m/44'/218'/0'/
-Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
-MerkleRoot = 0x68f38e0fb1ea4346fa70aee7799c5f952293644e9ffdeccac41173e1e10e07cb
-```
-* TestNetwork Details
-```
-Network Magic = 0x45, 0x76, 0x65,0xBA
-Default Port = 51474
-RPC Port = 8329
-Seed = 
-PUBKEY_ADDRESS = 139
-PUBKEY_ADDRESS_HEX = 0x8B
-SCRIPT_ADDRESS = 19
-SCRIPT_ADDRESS_HEX = 0x13
-SECRET_KEY (WIF) = 239
-SECRET_KEY_HEX (WIF) = 0xEF
-EXT_PUBLIC_KEY = 0x3A, 0x80, 0x61, 0xA0
-EXT_SECRET_KEY = 0x3A, 0x80, 0x58, 0x37
-BIP44_PATH = m/44'/1'/0'/
-Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
-MerkleRoot = 
-```
-* RegTest Details
-```
-Network Magic = 0xA1, 0xCF, 0x7E, 0xAC
-Default Port = 51476
-Seed = 
-PUBKEY_ADDRESS = 
-PUBKEY_ADDRESS_HEX = 
-SCRIPT_ADDRESS = 
-SCRIPT_ADDRESS_HEX = 
-SECRET_KEY (WIF) = 
-SECRET_KEY_HEX (WIF) = 
-EXT_PUBLIC_KEY = 
-EXT_SECRET_KEY = 
-Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
-MerkleRoot = 
-```
 
 ## General
 * [Bitcloud Webpage](https://bit-cloud.info/) Bitcloud BTDX Webpage with all Infos about.
@@ -137,6 +85,64 @@ MerkleRoot =
 ## Telegram Channels
 * [Telegram (English)](https://t.me/bitcloud_btdx) Bitcloud Telegram Channel English
 * [Telegram (Deutsch)](https://t.me/bitcloud_btdx_german) Bitcloud Telegram Channel Deutsch
+
+## Development Libraries
+* [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
+* [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
+
+## Network Details
+* MainNetwork Details
+```
+Network Magic = 0xE4, 0xE8, 0xBD, 0xFD
+Default Port = 8329
+RPC Port = 8330
+Seed = seed.bitcloud.network
+PUBKEY_ADDRESS = 25
+PUBKEY_ADDRESS_HEX = 0x19
+SCRIPT_ADDRESS = 5
+SCRIPT_ADDRESS_HEX = 0x05
+SECRET_KEY (WIF) = 153
+SECRET_KEY_HEX (WIF) = 0x99
+EXT_PUBLIC_KEY = 0x04, 0x88, 0xB2, 0x1E
+EXT_SECRET_KEY = 0x04, 0x88, 0xAD, 0xE4
+BIP44_PATH = m/44'/218'/0'/
+Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
+MerkleRoot = 0x68f38e0fb1ea4346fa70aee7799c5f952293644e9ffdeccac41173e1e10e07cb
+```
+* TestNetwork Details
+```
+Network Magic = 0x45, 0x76, 0x65,0xBA
+Default Port = 51474
+RPC Port = 8329
+Seed = 
+PUBKEY_ADDRESS = 139
+PUBKEY_ADDRESS_HEX = 0x8B
+SCRIPT_ADDRESS = 19
+SCRIPT_ADDRESS_HEX = 0x13
+SECRET_KEY (WIF) = 239
+SECRET_KEY_HEX (WIF) = 0xEF
+EXT_PUBLIC_KEY = 0x3A, 0x80, 0x61, 0xA0
+EXT_SECRET_KEY = 0x3A, 0x80, 0x58, 0x37
+BIP44_PATH = m/44'/1'/0'/
+Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
+MerkleRoot = 
+```
+* RegTest Details
+```
+Network Magic = 0xA1, 0xCF, 0x7E, 0xAC
+Default Port = 51476
+Seed = 
+PUBKEY_ADDRESS = 
+PUBKEY_ADDRESS_HEX = 
+SCRIPT_ADDRESS = 
+SCRIPT_ADDRESS_HEX = 
+SECRET_KEY (WIF) = 
+SECRET_KEY_HEX (WIF) = 
+EXT_PUBLIC_KEY = 
+EXT_SECRET_KEY = 
+Genesis = 0x000002d56463941c20eae5cb474cc805b646515d18bc7dc222a0885b206eadb0
+MerkleRoot = 
+```
 
 ## Other Awesome Lists
 * [Bitcore](https://github.com/LIMXTEC/awesome-bitcore-btx/) Bitcore Awesome List
