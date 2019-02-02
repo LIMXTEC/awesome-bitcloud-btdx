@@ -13,6 +13,7 @@ Contributions are always welcome!
 * [Explorer](#explorer)
 * [Exchanges](#exchanges)
 * [Auto Exchanges](#auto-exchanges)
+* [Portfolio tracker](#portfolio-tracker)
 * [Market Info](#market-info)
 * [Coin Info](#coin-info)
 * [Masternode Info](#masternode-info)
@@ -64,6 +65,11 @@ All script is provided AS IS with no support or warranties.
 * [InstaSwap](https://instaswap.io) InstaSwap - Simple. Fast. Secure.
 
 
+## Portfolio tracker
+* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
+* [Delta Direct](https://delta.app) DELTA Direct ICO & cryptocurrency portfolio tracker
+
+
 ## Market Info
 * [CoinMarketCap](https://coinmarketcap.com/currencies/bitcloud/) Bitcloud Ranking by Market Capitalization
 * [WorldCoinIndex](https://www.worldcoinindex.com/coin/bitcloud) Bitcloud price index and market cap
@@ -101,11 +107,12 @@ All script is provided AS IS with no support or warranties.
 ## Tools and Services
 * [GeneralBytes](https://github.com/GENERALBYTESCOM/batm_public) ATM Server / Client Software
 * [Mnemonic Code Converter](https://iancoleman.io/bip39) A web tool for converting BIP39 mnemonic codes
-* [Cryptonaut](https://www.cryptonaut.org) Easily track your cryptocurrency portfolio 
+* [hd-wallet-derive](https://github.com/dan-da/hd-wallet-derive) A command-line tool that derives bip32 addresses and private keys
 
 
 ## Development Libraries
 * [pycoin](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library
+* [PyWallet](https://github.com/ranaroussi/pywallet) this Python library simplify the process of creating new BIP32 (HD) wallets
 * [crptwav](https://github.com/StrongSquirrel/crptwav) Go library for address validation
 
 
