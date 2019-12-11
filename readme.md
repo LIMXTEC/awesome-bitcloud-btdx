@@ -126,6 +126,7 @@ All script is provided AS IS with no support or warranties.
 * MainNetwork Details
 ```
 Network Magic = 0xE4, 0xE8, 0xBD, 0xFD
+MessageMagic = "Diamond Signed Message:\n"
 Default Port = 8329
 RPC Port = 8330
 Seed = seed.bitcloud.network
