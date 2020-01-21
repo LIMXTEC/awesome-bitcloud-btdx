@@ -37,7 +37,7 @@ All script is provided AS IS with no support or warranties.
 
 
 ## General
-* [Bitcloud Webpage](https://bit-cloud.info/) Bitcloud BTDX Webpage with all Infos about.
+* [Bitcloud Webpage](https://bit-cloud.cc/) Bitcloud BTDX Webpage with all Infos about.
 * [Bitcloud ANN English](https://bitcointalk.org/index.php?topic=2092583.0)
 * [Bitcloud Forum](https://forum.bit-cloud.cc)
 
